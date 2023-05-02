@@ -13,6 +13,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <p>New feature dev</p>
       master miam
       <p>And a new sentence</p>
+      a new sentence
       <p>A different sentence</p>
       <p>Another sentence</p>
       <p>Master piece</p>
