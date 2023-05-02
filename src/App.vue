@@ -9,6 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Yoy !" />
+      <p>And no more branch</p>
     </div>
   </header>
 
