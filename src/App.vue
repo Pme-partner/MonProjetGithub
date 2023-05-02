@@ -11,6 +11,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="Yoyi !" />
       <p>New feature dev</p>
       <p>And a new sentence</p>
+      <p>Another sentence</p>
     </div>
   </header>
 
