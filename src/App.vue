@@ -12,6 +12,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <p>New feature dev</p>
       <p>And a new sentence</p>
       <p>A different sentence</p>
+      <p>Master piece</p>
     </div>
   </header>
 
