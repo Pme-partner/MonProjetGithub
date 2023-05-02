@@ -9,6 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Yoyi !" />
+      hahahahahahahahaha
       <p>New feature dev</p>
       <p>And a new sentence</p>
       <p>A different sentence</p>
