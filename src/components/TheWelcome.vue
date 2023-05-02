@@ -9,6 +9,8 @@ import SupportIcon from './icons/IconSupport.vue'
 
 <template>
   <WelcomeItem>
+    !!!!!!!!
+    ??????
     <template #icon>
       <DocumentationIcon />
     </template>
